@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jyothendra kummari</h1>
 <h3 align="center">A aspiring software engineer from India</h3>
 
-- 🌱 I’m currently learning **python libraries like tensorflow,open cv, and pytorch**
-
-- 👯 I’m looking to collaborate on **machine learning projects**
-
-- 💬 Ask me about **HTML,CSS,JS,C,CPP,JAVA and PYTHON**
-
 - 📫 How to reach me **kummarijyothendra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
